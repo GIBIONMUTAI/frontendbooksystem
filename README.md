@@ -5,6 +5,9 @@ In the project directory, you can run:
 ### `npm install`
 Run the command after cloning the project frontendbooksystem.
 
+### `npm install node-modules`
+Run the command npm install node-modules after npm install. To install the modules.
+
 ### `npm start`
 
 Runs the app in the development mode.\
